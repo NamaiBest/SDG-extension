@@ -1,0 +1,8120 @@
+[
+  {
+    "id": "rem_001",
+    "problem": "Wet Cough",
+    "symptoms": [
+      "mucus cough",
+      "chest congestion"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Isabgol",
+          "Amla"
+        ],
+        "steps": "Boil or mix Black pepper, Isabgol, and Amla appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_002",
+    "problem": "Constipation",
+    "symptoms": [
+      "hard stool",
+      "difficulty passing stool"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Isabgol",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Fennel seeds, Isabgol, and Lemon appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_003",
+    "problem": "Insomnia",
+    "symptoms": [
+      "difficulty sleeping",
+      "frequent waking"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Honey",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Mustard oil, Honey, and Lemon appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_004",
+    "problem": "Migraine",
+    "symptoms": [
+      "throbbing pain",
+      "light sensitivity"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Honey",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Tulsi, Honey, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_005",
+    "problem": "Diarrhea",
+    "symptoms": [
+      "loose motion",
+      "stomach cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Coconut oil",
+          "Turmeric"
+        ],
+        "steps": "Boil or mix Black pepper, Coconut oil, and Turmeric appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_006",
+    "problem": "Headache",
+    "symptoms": [
+      "head pain",
+      "pressure in head"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Clove",
+          "Honey"
+        ],
+        "steps": "Boil or mix Mustard oil, Clove, and Honey appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_007",
+    "problem": "Skin Rash",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Mint",
+          "Amla"
+        ],
+        "steps": "Boil or mix Fennel seeds, Mint, and Amla appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_008",
+    "problem": "Back Pain",
+    "symptoms": [
+      "lower back pain",
+      "muscle stiffness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Garlic",
+          "Mint",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Garlic, Mint, and Lemon appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_009",
+    "problem": "Low Immunity",
+    "symptoms": [
+      "frequent infections",
+      "fatigue"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Coconut oil",
+          "Turmeric"
+        ],
+        "steps": "Boil or mix Black pepper, Coconut oil, and Turmeric appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_010",
+    "problem": "Obesity Support",
+    "symptoms": [
+      "weight gain",
+      "slow metabolism"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Coconut oil",
+          "Mustard oil",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Coconut oil, Mustard oil, and Lemon appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_011",
+    "problem": "Low Immunity",
+    "symptoms": [
+      "frequent infections",
+      "fatigue"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Coconut oil",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Mint, Coconut oil, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_012",
+    "problem": "Constipation",
+    "symptoms": [
+      "hard stool",
+      "difficulty passing stool"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Tulsi",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Amla, Tulsi, and Ajwain appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_013",
+    "problem": "Mild Anxiety",
+    "symptoms": [
+      "nervousness",
+      "uneasiness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Coconut oil",
+          "Clove"
+        ],
+        "steps": "Boil or mix Ajwain, Coconut oil, and Clove appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_014",
+    "problem": "Skin Rash",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Fenugreek",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Aloe vera, Fenugreek, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_015",
+    "problem": "Bloating",
+    "symptoms": [
+      "abdominal fullness",
+      "tight stomach"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Garlic",
+          "Mustard oil",
+          "Amla"
+        ],
+        "steps": "Boil or mix Garlic, Mustard oil, and Amla appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_016",
+    "problem": "Toothache",
+    "symptoms": [
+      "tooth pain",
+      "gum swelling"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Coconut oil",
+          "Tulsi",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Coconut oil, Tulsi, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_017",
+    "problem": "Indigestion",
+    "symptoms": [
+      "stomach discomfort",
+      "bloating"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Isabgol",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Cinnamon, Isabgol, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_018",
+    "problem": "Stress",
+    "symptoms": [
+      "mental tension",
+      "restlessness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Aloe vera",
+          "Mint"
+        ],
+        "steps": "Boil or mix Neem, Aloe vera, and Mint appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_019",
+    "problem": "Bloating",
+    "symptoms": [
+      "abdominal fullness",
+      "tight stomach"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Coconut oil",
+          "Neem"
+        ],
+        "steps": "Boil or mix Honey, Coconut oil, and Neem appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_020",
+    "problem": "Dandruff",
+    "symptoms": [
+      "itchy scalp",
+      "white flakes"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Mustard oil",
+          "Cinnamon"
+        ],
+        "steps": "Boil or mix Black pepper, Mustard oil, and Cinnamon appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_021",
+    "problem": "Bloating",
+    "symptoms": [
+      "abdominal fullness",
+      "tight stomach"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Black pepper",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Mustard oil, Black pepper, and Lemon appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_022",
+    "problem": "Sore Throat",
+    "symptoms": [
+      "throat pain",
+      "difficulty swallowing"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Ginger",
+          "Cinnamon"
+        ],
+        "steps": "Boil or mix Fennel seeds, Ginger, and Cinnamon appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_023",
+    "problem": "Low Immunity",
+    "symptoms": [
+      "frequent infections",
+      "fatigue"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Lemon",
+          "Mint",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Lemon, Mint, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_024",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Black pepper",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Mint, Black pepper, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_025",
+    "problem": "Acidity",
+    "symptoms": [
+      "burning chest",
+      "sour burps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Fennel seeds",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Isabgol, Fennel seeds, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_026",
+    "problem": "Indigestion",
+    "symptoms": [
+      "stomach discomfort",
+      "bloating"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Lemon",
+          "Isabgol",
+          "Clove"
+        ],
+        "steps": "Boil or mix Lemon, Isabgol, and Clove appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_027",
+    "problem": "Anemia Support",
+    "symptoms": [
+      "weakness",
+      "pale skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Ajwain",
+          "Turmeric"
+        ],
+        "steps": "Boil or mix Aloe vera, Ajwain, and Turmeric appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_028",
+    "problem": "Bloating",
+    "symptoms": [
+      "abdominal fullness",
+      "tight stomach"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Lemon",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Mint, Lemon, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_029",
+    "problem": "Low Immunity",
+    "symptoms": [
+      "frequent infections",
+      "fatigue"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Neem",
+          "Cinnamon"
+        ],
+        "steps": "Boil or mix Mint, Neem, and Cinnamon appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_030",
+    "problem": "Dandruff",
+    "symptoms": [
+      "itchy scalp",
+      "white flakes"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Ajwain",
+          "Neem"
+        ],
+        "steps": "Boil or mix Mint, Ajwain, and Neem appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_031",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Clove",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Fennel seeds, Clove, and Ajwain appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_032",
+    "problem": "Back Pain",
+    "symptoms": [
+      "lower back pain",
+      "muscle stiffness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Turmeric",
+          "Isabgol",
+          "Fenugreek"
+        ],
+        "steps": "Boil or mix Turmeric, Isabgol, and Fenugreek appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_033",
+    "problem": "Joint Pain",
+    "symptoms": [
+      "joint stiffness",
+      "knee pain"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Amla",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Aloe vera, Amla, and Tulsi appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_034",
+    "problem": "Low Immunity",
+    "symptoms": [
+      "frequent infections",
+      "fatigue"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Fennel seeds",
+          "Cinnamon"
+        ],
+        "steps": "Boil or mix Tulsi, Fennel seeds, and Cinnamon appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_035",
+    "problem": "Mild Anxiety",
+    "symptoms": [
+      "nervousness",
+      "uneasiness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Clove",
+          "Mint"
+        ],
+        "steps": "Boil or mix Honey, Clove, and Mint appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_036",
+    "problem": "Gas",
+    "symptoms": [
+      "stomach pressure",
+      "burping"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Aloe vera",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Neem, Aloe vera, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_037",
+    "problem": "Joint Pain",
+    "symptoms": [
+      "joint stiffness",
+      "knee pain"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Mustard oil",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Mint, Mustard oil, and Lemon appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_038",
+    "problem": "Indigestion",
+    "symptoms": [
+      "stomach discomfort",
+      "bloating"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Honey",
+          "Fenugreek"
+        ],
+        "steps": "Boil or mix Amla, Honey, and Fenugreek appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_039",
+    "problem": "Obesity Support",
+    "symptoms": [
+      "weight gain",
+      "slow metabolism"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Neem",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Black pepper, Neem, and Lemon appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_040",
+    "problem": "Back Pain",
+    "symptoms": [
+      "lower back pain",
+      "muscle stiffness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Amla",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Ajwain, Amla, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_041",
+    "problem": "Indigestion",
+    "symptoms": [
+      "stomach discomfort",
+      "bloating"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Coconut oil",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Isabgol, Coconut oil, and Lemon appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_042",
+    "problem": "Obesity Support",
+    "symptoms": [
+      "weight gain",
+      "slow metabolism"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Clove",
+          "Cinnamon",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Clove, Cinnamon, and Black pepper appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_043",
+    "problem": "Anemia Support",
+    "symptoms": [
+      "weakness",
+      "pale skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Ajwain",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Neem, Ajwain, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_044",
+    "problem": "Stress",
+    "symptoms": [
+      "mental tension",
+      "restlessness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Ginger",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Tulsi, Ginger, and Ajwain appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_045",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Turmeric",
+          "Garlic",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Turmeric, Garlic, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_046",
+    "problem": "Headache",
+    "symptoms": [
+      "head pain",
+      "pressure in head"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Cinnamon",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Neem, Cinnamon, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_047",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Garlic",
+          "Aloe vera",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Garlic, Aloe vera, and Tulsi appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_048",
+    "problem": "Headache",
+    "symptoms": [
+      "head pain",
+      "pressure in head"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Honey",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Aloe vera, Honey, and Ajwain appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_049",
+    "problem": "Sore Throat",
+    "symptoms": [
+      "throat pain",
+      "difficulty swallowing"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Fennel seeds",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Isabgol, Fennel seeds, and Ajwain appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_050",
+    "problem": "Fatigue",
+    "symptoms": [
+      "low energy",
+      "tiredness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Isabgol",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Honey, Isabgol, and Black pepper appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_051",
+    "problem": "Menstrual Cramps",
+    "symptoms": [
+      "lower abdomen pain",
+      "cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Fennel seeds",
+          "Mint"
+        ],
+        "steps": "Boil or mix Neem, Fennel seeds, and Mint appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_052",
+    "problem": "Dry Cough",
+    "symptoms": [
+      "dry throat",
+      "persistent cough"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Lemon",
+          "Mint",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Lemon, Mint, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_053",
+    "problem": "Sore Throat",
+    "symptoms": [
+      "throat pain",
+      "difficulty swallowing"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Turmeric",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Black pepper, Turmeric, and Lemon appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_054",
+    "problem": "Joint Pain",
+    "symptoms": [
+      "joint stiffness",
+      "knee pain"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Mint",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Mustard oil, Mint, and Ajwain appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_055",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fenugreek",
+          "Tulsi",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Fenugreek, Tulsi, and Ajwain appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_056",
+    "problem": "Low Immunity",
+    "symptoms": [
+      "frequent infections",
+      "fatigue"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Isabgol",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Ginger, Isabgol, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_057",
+    "problem": "Hair Fall",
+    "symptoms": [
+      "excess hair shedding",
+      "weak roots"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Honey",
+          "Amla"
+        ],
+        "steps": "Boil or mix Ajwain, Honey, and Amla appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_058",
+    "problem": "Insomnia",
+    "symptoms": [
+      "difficulty sleeping",
+      "frequent waking"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Tulsi",
+          "Mint"
+        ],
+        "steps": "Boil or mix Mustard oil, Tulsi, and Mint appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_059",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Clove",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Cinnamon, Clove, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_060",
+    "problem": "Constipation",
+    "symptoms": [
+      "hard stool",
+      "difficulty passing stool"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Ajwain",
+          "Neem"
+        ],
+        "steps": "Boil or mix Tulsi, Ajwain, and Neem appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_061",
+    "problem": "Mild Anxiety",
+    "symptoms": [
+      "nervousness",
+      "uneasiness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Lemon",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Amla, Lemon, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_062",
+    "problem": "Stress",
+    "symptoms": [
+      "mental tension",
+      "restlessness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Cinnamon",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Honey, Cinnamon, and Ajwain appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_063",
+    "problem": "Hair Fall",
+    "symptoms": [
+      "excess hair shedding",
+      "weak roots"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fenugreek",
+          "Tulsi",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Fenugreek, Tulsi, and Ajwain appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_064",
+    "problem": "Insomnia",
+    "symptoms": [
+      "difficulty sleeping",
+      "frequent waking"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Aloe vera",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Ginger, Aloe vera, and Isabgol appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_065",
+    "problem": "Back Pain",
+    "symptoms": [
+      "lower back pain",
+      "muscle stiffness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Fenugreek",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Neem, Fenugreek, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_066",
+    "problem": "Fever",
+    "symptoms": [
+      "high temperature",
+      "body ache"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Honey",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Ginger, Honey, and Tulsi appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_067",
+    "problem": "Diarrhea",
+    "symptoms": [
+      "loose motion",
+      "stomach cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Garlic",
+          "Black pepper",
+          "Amla"
+        ],
+        "steps": "Boil or mix Garlic, Black pepper, and Amla appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_068",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Lemon",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Isabgol, Lemon, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_069",
+    "problem": "Dry Cough",
+    "symptoms": [
+      "dry throat",
+      "persistent cough"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Cinnamon",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Mint, Cinnamon, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_070",
+    "problem": "Headache",
+    "symptoms": [
+      "head pain",
+      "pressure in head"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Mustard oil",
+          "Ginger"
+        ],
+        "steps": "Boil or mix Neem, Mustard oil, and Ginger appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_071",
+    "problem": "Acne",
+    "symptoms": [
+      "pimples",
+      "oily skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Neem",
+          "Cinnamon"
+        ],
+        "steps": "Boil or mix Mint, Neem, and Cinnamon appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_072",
+    "problem": "Obesity Support",
+    "symptoms": [
+      "weight gain",
+      "slow metabolism"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Garlic",
+          "Fenugreek",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Garlic, Fenugreek, and Lemon appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_073",
+    "problem": "Migraine",
+    "symptoms": [
+      "throbbing pain",
+      "light sensitivity"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Coconut oil",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Amla, Coconut oil, and Garlic appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_074",
+    "problem": "Acne",
+    "symptoms": [
+      "pimples",
+      "oily skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Cinnamon",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Neem, Cinnamon, and Garlic appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_075",
+    "problem": "Gas",
+    "symptoms": [
+      "stomach pressure",
+      "burping"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Clove",
+          "Isabgol",
+          "Neem"
+        ],
+        "steps": "Boil or mix Clove, Isabgol, and Neem appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_076",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Ginger",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Black pepper, Ginger, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_077",
+    "problem": "Diarrhea",
+    "symptoms": [
+      "loose motion",
+      "stomach cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Coconut oil",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Amla, Coconut oil, and Garlic appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_078",
+    "problem": "Hair Fall",
+    "symptoms": [
+      "excess hair shedding",
+      "weak roots"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Isabgol",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Neem, Isabgol, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_079",
+    "problem": "Fever",
+    "symptoms": [
+      "high temperature",
+      "body ache"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Neem",
+          "Fenugreek"
+        ],
+        "steps": "Boil or mix Isabgol, Neem, and Fenugreek appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_080",
+    "problem": "Skin Rash",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Cinnamon",
+          "Amla"
+        ],
+        "steps": "Boil or mix Mint, Cinnamon, and Amla appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_081",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Ajwain",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Neem, Ajwain, and Lemon appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_082",
+    "problem": "Toothache",
+    "symptoms": [
+      "tooth pain",
+      "gum swelling"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Garlic",
+          "Mint"
+        ],
+        "steps": "Boil or mix Fennel seeds, Garlic, and Mint appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_083",
+    "problem": "Skin Rash",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Isabgol",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Cinnamon, Isabgol, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_084",
+    "problem": "Insomnia",
+    "symptoms": [
+      "difficulty sleeping",
+      "frequent waking"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Isabgol",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Ajwain, Isabgol, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_085",
+    "problem": "Bloating",
+    "symptoms": [
+      "abdominal fullness",
+      "tight stomach"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Ajwain",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Ginger, Ajwain, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_086",
+    "problem": "Toothache",
+    "symptoms": [
+      "tooth pain",
+      "gum swelling"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Lemon",
+          "Honey"
+        ],
+        "steps": "Boil or mix Black pepper, Lemon, and Honey appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_087",
+    "problem": "Stress",
+    "symptoms": [
+      "mental tension",
+      "restlessness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Fenugreek",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Tulsi, Fenugreek, and Isabgol appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_088",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Isabgol",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Mustard oil, Isabgol, and Tulsi appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_089",
+    "problem": "Headache",
+    "symptoms": [
+      "head pain",
+      "pressure in head"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Lemon",
+          "Isabgol",
+          "Honey"
+        ],
+        "steps": "Boil or mix Lemon, Isabgol, and Honey appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_090",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Mint",
+          "Clove"
+        ],
+        "steps": "Boil or mix Mustard oil, Mint, and Clove appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_091",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fenugreek",
+          "Garlic",
+          "Mint"
+        ],
+        "steps": "Boil or mix Fenugreek, Garlic, and Mint appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_092",
+    "problem": "Acne",
+    "symptoms": [
+      "pimples",
+      "oily skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Clove",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Ginger, Clove, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_093",
+    "problem": "Constipation",
+    "symptoms": [
+      "hard stool",
+      "difficulty passing stool"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Turmeric",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Mint, Turmeric, and Garlic appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_094",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Ginger",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Tulsi, Ginger, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_095",
+    "problem": "Acne",
+    "symptoms": [
+      "pimples",
+      "oily skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Clove",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Mustard oil, Clove, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_096",
+    "problem": "Bloating",
+    "symptoms": [
+      "abdominal fullness",
+      "tight stomach"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Lemon",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Ajwain, Lemon, and Tulsi appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_097",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Cinnamon",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Mustard oil, Cinnamon, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_098",
+    "problem": "Joint Pain",
+    "symptoms": [
+      "joint stiffness",
+      "knee pain"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Fennel seeds",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Isabgol, Fennel seeds, and Garlic appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_099",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Clove",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Mint, Clove, and Lemon appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_100",
+    "problem": "Mild Anxiety",
+    "symptoms": [
+      "nervousness",
+      "uneasiness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Turmeric",
+          "Neem",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Turmeric, Neem, and Ajwain appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_101",
+    "problem": "Indigestion",
+    "symptoms": [
+      "stomach discomfort",
+      "bloating"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Neem",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Tulsi, Neem, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_102",
+    "problem": "Gas",
+    "symptoms": [
+      "stomach pressure",
+      "burping"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Mint",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Ginger, Mint, and Tulsi appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_103",
+    "problem": "Menstrual Cramps",
+    "symptoms": [
+      "lower abdomen pain",
+      "cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Lemon",
+          "Clove"
+        ],
+        "steps": "Boil or mix Ajwain, Lemon, and Clove appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_104",
+    "problem": "Headache",
+    "symptoms": [
+      "head pain",
+      "pressure in head"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Mint",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Isabgol, Mint, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_105",
+    "problem": "Dry Cough",
+    "symptoms": [
+      "dry throat",
+      "persistent cough"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Honey",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Mustard oil, Honey, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_106",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Neem",
+          "Mint"
+        ],
+        "steps": "Boil or mix Honey, Neem, and Mint appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_107",
+    "problem": "Acne",
+    "symptoms": [
+      "pimples",
+      "oily skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Amla",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Isabgol, Amla, and Lemon appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_108",
+    "problem": "Joint Pain",
+    "symptoms": [
+      "joint stiffness",
+      "knee pain"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Ajwain",
+          "Amla"
+        ],
+        "steps": "Boil or mix Mint, Ajwain, and Amla appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_109",
+    "problem": "Stress",
+    "symptoms": [
+      "mental tension",
+      "restlessness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Lemon",
+          "Fennel seeds",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Lemon, Fennel seeds, and Isabgol appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_110",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Turmeric",
+          "Black pepper",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Turmeric, Black pepper, and Tulsi appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_111",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Ajwain",
+          "Amla"
+        ],
+        "steps": "Boil or mix Honey, Ajwain, and Amla appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_112",
+    "problem": "Fatigue",
+    "symptoms": [
+      "low energy",
+      "tiredness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Mint",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Fennel seeds, Mint, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_113",
+    "problem": "Mild Anxiety",
+    "symptoms": [
+      "nervousness",
+      "uneasiness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Garlic",
+          "Fenugreek"
+        ],
+        "steps": "Boil or mix Black pepper, Garlic, and Fenugreek appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_114",
+    "problem": "Wet Cough",
+    "symptoms": [
+      "mucus cough",
+      "chest congestion"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Mint",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Mustard oil, Mint, and Garlic appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_115",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Coconut oil",
+          "Mint"
+        ],
+        "steps": "Boil or mix Aloe vera, Coconut oil, and Mint appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_116",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Turmeric",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Tulsi, Turmeric, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_117",
+    "problem": "Stress",
+    "symptoms": [
+      "mental tension",
+      "restlessness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Black pepper",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Cinnamon, Black pepper, and Isabgol appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_118",
+    "problem": "Bloating",
+    "symptoms": [
+      "abdominal fullness",
+      "tight stomach"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Honey",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Ginger, Honey, and Black pepper appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_119",
+    "problem": "Anemia Support",
+    "symptoms": [
+      "weakness",
+      "pale skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Clove",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Fennel seeds, Clove, and Tulsi appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_120",
+    "problem": "Stress",
+    "symptoms": [
+      "mental tension",
+      "restlessness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Fennel seeds",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Amla, Fennel seeds, and Black pepper appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_121",
+    "problem": "Menstrual Cramps",
+    "symptoms": [
+      "lower abdomen pain",
+      "cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Lemon",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Aloe vera, Lemon, and Ajwain appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_122",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Fenugreek",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Isabgol, Fenugreek, and Ajwain appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_123",
+    "problem": "Low Immunity",
+    "symptoms": [
+      "frequent infections",
+      "fatigue"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Mint",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Ginger, Mint, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_124",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Ajwain",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Mint, Ajwain, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_125",
+    "problem": "Acne",
+    "symptoms": [
+      "pimples",
+      "oily skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fenugreek",
+          "Garlic",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Fenugreek, Garlic, and Ajwain appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_126",
+    "problem": "Joint Pain",
+    "symptoms": [
+      "joint stiffness",
+      "knee pain"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Black pepper",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Mint, Black pepper, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_127",
+    "problem": "Acne",
+    "symptoms": [
+      "pimples",
+      "oily skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Neem",
+          "Ginger"
+        ],
+        "steps": "Boil or mix Cinnamon, Neem, and Ginger appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_128",
+    "problem": "Bloating",
+    "symptoms": [
+      "abdominal fullness",
+      "tight stomach"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Isabgol",
+          "Mint"
+        ],
+        "steps": "Boil or mix Aloe vera, Isabgol, and Mint appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_129",
+    "problem": "Indigestion",
+    "symptoms": [
+      "stomach discomfort",
+      "bloating"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Coconut oil",
+          "Aloe vera",
+          "Clove"
+        ],
+        "steps": "Boil or mix Coconut oil, Aloe vera, and Clove appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_130",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Lemon",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Mint, Lemon, and Isabgol appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_131",
+    "problem": "Low Immunity",
+    "symptoms": [
+      "frequent infections",
+      "fatigue"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Tulsi",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Amla, Tulsi, and Garlic appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_132",
+    "problem": "Bloating",
+    "symptoms": [
+      "abdominal fullness",
+      "tight stomach"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Turmeric",
+          "Neem",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Turmeric, Neem, and Lemon appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_133",
+    "problem": "Toothache",
+    "symptoms": [
+      "tooth pain",
+      "gum swelling"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Cinnamon",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Fennel seeds, Cinnamon, and Lemon appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_134",
+    "problem": "Back Pain",
+    "symptoms": [
+      "lower back pain",
+      "muscle stiffness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fenugreek",
+          "Cinnamon",
+          "Amla"
+        ],
+        "steps": "Boil or mix Fenugreek, Cinnamon, and Amla appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_135",
+    "problem": "Joint Pain",
+    "symptoms": [
+      "joint stiffness",
+      "knee pain"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Clove",
+          "Ginger"
+        ],
+        "steps": "Boil or mix Black pepper, Clove, and Ginger appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_136",
+    "problem": "Dry Cough",
+    "symptoms": [
+      "dry throat",
+      "persistent cough"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Isabgol",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Mustard oil, Isabgol, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_137",
+    "problem": "Low Immunity",
+    "symptoms": [
+      "frequent infections",
+      "fatigue"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Coconut oil",
+          "Fennel seeds",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Coconut oil, Fennel seeds, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_138",
+    "problem": "Acne",
+    "symptoms": [
+      "pimples",
+      "oily skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Turmeric",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Black pepper, Turmeric, and Ajwain appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_139",
+    "problem": "Mild Anxiety",
+    "symptoms": [
+      "nervousness",
+      "uneasiness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Mustard oil",
+          "Fenugreek"
+        ],
+        "steps": "Boil or mix Ginger, Mustard oil, and Fenugreek appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_140",
+    "problem": "Mild Anxiety",
+    "symptoms": [
+      "nervousness",
+      "uneasiness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fenugreek",
+          "Ginger",
+          "Clove"
+        ],
+        "steps": "Boil or mix Fenugreek, Ginger, and Clove appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_141",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Turmeric",
+          "Isabgol",
+          "Clove"
+        ],
+        "steps": "Boil or mix Turmeric, Isabgol, and Clove appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_142",
+    "problem": "Sore Throat",
+    "symptoms": [
+      "throat pain",
+      "difficulty swallowing"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Ginger",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Black pepper, Ginger, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_143",
+    "problem": "Wet Cough",
+    "symptoms": [
+      "mucus cough",
+      "chest congestion"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Ajwain",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Honey, Ajwain, and Tulsi appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_144",
+    "problem": "Headache",
+    "symptoms": [
+      "head pain",
+      "pressure in head"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Mint",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Isabgol, Mint, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_145",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Neem",
+          "Clove"
+        ],
+        "steps": "Boil or mix Amla, Neem, and Clove appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_146",
+    "problem": "Bloating",
+    "symptoms": [
+      "abdominal fullness",
+      "tight stomach"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Fennel seeds",
+          "Turmeric"
+        ],
+        "steps": "Boil or mix Cinnamon, Fennel seeds, and Turmeric appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_147",
+    "problem": "Hair Fall",
+    "symptoms": [
+      "excess hair shedding",
+      "weak roots"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Mint",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Cinnamon, Mint, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_148",
+    "problem": "Migraine",
+    "symptoms": [
+      "throbbing pain",
+      "light sensitivity"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Coconut oil",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Aloe vera, Coconut oil, and Garlic appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_149",
+    "problem": "Stress",
+    "symptoms": [
+      "mental tension",
+      "restlessness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Mustard oil",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Tulsi, Mustard oil, and Black pepper appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_150",
+    "problem": "Hair Fall",
+    "symptoms": [
+      "excess hair shedding",
+      "weak roots"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Coconut oil",
+          "Amla"
+        ],
+        "steps": "Boil or mix Mustard oil, Coconut oil, and Amla appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_151",
+    "problem": "Skin Rash",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Cinnamon",
+          "Honey"
+        ],
+        "steps": "Boil or mix Tulsi, Cinnamon, and Honey appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_152",
+    "problem": "Joint Pain",
+    "symptoms": [
+      "joint stiffness",
+      "knee pain"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Mustard oil",
+          "Honey"
+        ],
+        "steps": "Boil or mix Cinnamon, Mustard oil, and Honey appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_153",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Lemon",
+          "Mustard oil",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Lemon, Mustard oil, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_154",
+    "problem": "Joint Pain",
+    "symptoms": [
+      "joint stiffness",
+      "knee pain"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Amla",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Ajwain, Amla, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_155",
+    "problem": "Stress",
+    "symptoms": [
+      "mental tension",
+      "restlessness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Aloe vera",
+          "Fenugreek"
+        ],
+        "steps": "Boil or mix Isabgol, Aloe vera, and Fenugreek appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_156",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Fenugreek",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Mint, Fenugreek, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_157",
+    "problem": "Fever",
+    "symptoms": [
+      "high temperature",
+      "body ache"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Black pepper",
+          "Clove"
+        ],
+        "steps": "Boil or mix Cinnamon, Black pepper, and Clove appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_158",
+    "problem": "Fatigue",
+    "symptoms": [
+      "low energy",
+      "tiredness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Isabgol",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Mint, Isabgol, and Garlic appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_159",
+    "problem": "Toothache",
+    "symptoms": [
+      "tooth pain",
+      "gum swelling"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Clove",
+          "Honey",
+          "Mint"
+        ],
+        "steps": "Boil or mix Clove, Honey, and Mint appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_160",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Amla",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Aloe vera, Amla, and Isabgol appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_161",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Isabgol",
+          "Clove"
+        ],
+        "steps": "Boil or mix Black pepper, Isabgol, and Clove appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_162",
+    "problem": "Menstrual Cramps",
+    "symptoms": [
+      "lower abdomen pain",
+      "cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Garlic",
+          "Amla"
+        ],
+        "steps": "Boil or mix Honey, Garlic, and Amla appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_163",
+    "problem": "Bloating",
+    "symptoms": [
+      "abdominal fullness",
+      "tight stomach"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Turmeric",
+          "Fenugreek"
+        ],
+        "steps": "Boil or mix Mustard oil, Turmeric, and Fenugreek appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_164",
+    "problem": "Skin Rash",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Aloe vera",
+          "Fenugreek"
+        ],
+        "steps": "Boil or mix Cinnamon, Aloe vera, and Fenugreek appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_165",
+    "problem": "Constipation",
+    "symptoms": [
+      "hard stool",
+      "difficulty passing stool"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Mustard oil",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Cinnamon, Mustard oil, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_166",
+    "problem": "Bloating",
+    "symptoms": [
+      "abdominal fullness",
+      "tight stomach"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Fennel seeds",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Ajwain, Fennel seeds, and Isabgol appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_167",
+    "problem": "Stress",
+    "symptoms": [
+      "mental tension",
+      "restlessness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Cinnamon",
+          "Amla"
+        ],
+        "steps": "Boil or mix Mustard oil, Cinnamon, and Amla appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_168",
+    "problem": "Dandruff",
+    "symptoms": [
+      "itchy scalp",
+      "white flakes"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Isabgol",
+          "Ginger"
+        ],
+        "steps": "Boil or mix Honey, Isabgol, and Ginger appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_169",
+    "problem": "Fatigue",
+    "symptoms": [
+      "low energy",
+      "tiredness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Aloe vera",
+          "Fenugreek"
+        ],
+        "steps": "Boil or mix Neem, Aloe vera, and Fenugreek appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_170",
+    "problem": "Anemia Support",
+    "symptoms": [
+      "weakness",
+      "pale skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Turmeric",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Amla, Turmeric, and Black pepper appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_171",
+    "problem": "Fatigue",
+    "symptoms": [
+      "low energy",
+      "tiredness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Garlic",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Ajwain, Garlic, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_172",
+    "problem": "Dandruff",
+    "symptoms": [
+      "itchy scalp",
+      "white flakes"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Lemon",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Aloe vera, Lemon, and Tulsi appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_173",
+    "problem": "Menstrual Cramps",
+    "symptoms": [
+      "lower abdomen pain",
+      "cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Lemon",
+          "Amla"
+        ],
+        "steps": "Boil or mix Mustard oil, Lemon, and Amla appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_174",
+    "problem": "Sore Throat",
+    "symptoms": [
+      "throat pain",
+      "difficulty swallowing"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Neem",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Black pepper, Neem, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_175",
+    "problem": "Dandruff",
+    "symptoms": [
+      "itchy scalp",
+      "white flakes"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Black pepper",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Honey, Black pepper, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_176",
+    "problem": "Anemia Support",
+    "symptoms": [
+      "weakness",
+      "pale skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Lemon",
+          "Mint",
+          "Cinnamon"
+        ],
+        "steps": "Boil or mix Lemon, Mint, and Cinnamon appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_177",
+    "problem": "Fever",
+    "symptoms": [
+      "high temperature",
+      "body ache"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Mustard oil",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Ginger, Mustard oil, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_178",
+    "problem": "Insomnia",
+    "symptoms": [
+      "difficulty sleeping",
+      "frequent waking"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Ginger",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Ajwain, Ginger, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_179",
+    "problem": "Constipation",
+    "symptoms": [
+      "hard stool",
+      "difficulty passing stool"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Coconut oil",
+          "Clove",
+          "Ginger"
+        ],
+        "steps": "Boil or mix Coconut oil, Clove, and Ginger appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_180",
+    "problem": "Toothache",
+    "symptoms": [
+      "tooth pain",
+      "gum swelling"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Isabgol",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Neem, Isabgol, and Black pepper appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_181",
+    "problem": "Migraine",
+    "symptoms": [
+      "throbbing pain",
+      "light sensitivity"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Neem",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Ginger, Neem, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_182",
+    "problem": "Headache",
+    "symptoms": [
+      "head pain",
+      "pressure in head"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Lemon",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Fennel seeds, Lemon, and Garlic appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_183",
+    "problem": "Skin Rash",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Mustard oil",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Mint, Mustard oil, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_184",
+    "problem": "Dry Cough",
+    "symptoms": [
+      "dry throat",
+      "persistent cough"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Turmeric",
+          "Coconut oil",
+          "Cinnamon"
+        ],
+        "steps": "Boil or mix Turmeric, Coconut oil, and Cinnamon appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_185",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Lemon",
+          "Amla",
+          "Fenugreek"
+        ],
+        "steps": "Boil or mix Lemon, Amla, and Fenugreek appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_186",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Honey",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Ginger, Honey, and Garlic appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_187",
+    "problem": "Toothache",
+    "symptoms": [
+      "tooth pain",
+      "gum swelling"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Black pepper",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Fennel seeds, Black pepper, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_188",
+    "problem": "Joint Pain",
+    "symptoms": [
+      "joint stiffness",
+      "knee pain"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Ajwain",
+          "Clove"
+        ],
+        "steps": "Boil or mix Tulsi, Ajwain, and Clove appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_189",
+    "problem": "Indigestion",
+    "symptoms": [
+      "stomach discomfort",
+      "bloating"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Isabgol",
+          "Cinnamon"
+        ],
+        "steps": "Boil or mix Aloe vera, Isabgol, and Cinnamon appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_190",
+    "problem": "Back Pain",
+    "symptoms": [
+      "lower back pain",
+      "muscle stiffness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Black pepper",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Ginger, Black pepper, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_191",
+    "problem": "Headache",
+    "symptoms": [
+      "head pain",
+      "pressure in head"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Clove",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Honey, Clove, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_192",
+    "problem": "Anemia Support",
+    "symptoms": [
+      "weakness",
+      "pale skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Honey",
+          "Clove"
+        ],
+        "steps": "Boil or mix Tulsi, Honey, and Clove appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_193",
+    "problem": "Back Pain",
+    "symptoms": [
+      "lower back pain",
+      "muscle stiffness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Lemon",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Cinnamon, Lemon, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_194",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fenugreek",
+          "Garlic",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Fenugreek, Garlic, and Tulsi appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_195",
+    "problem": "Menstrual Cramps",
+    "symptoms": [
+      "lower abdomen pain",
+      "cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Garlic",
+          "Black pepper",
+          "Neem"
+        ],
+        "steps": "Boil or mix Garlic, Black pepper, and Neem appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_196",
+    "problem": "Insomnia",
+    "symptoms": [
+      "difficulty sleeping",
+      "frequent waking"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Ajwain",
+          "Honey"
+        ],
+        "steps": "Boil or mix Amla, Ajwain, and Honey appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_197",
+    "problem": "Indigestion",
+    "symptoms": [
+      "stomach discomfort",
+      "bloating"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Neem",
+          "Ginger"
+        ],
+        "steps": "Boil or mix Ajwain, Neem, and Ginger appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_198",
+    "problem": "Sore Throat",
+    "symptoms": [
+      "throat pain",
+      "difficulty swallowing"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Garlic",
+          "Neem",
+          "Amla"
+        ],
+        "steps": "Boil or mix Garlic, Neem, and Amla appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_199",
+    "problem": "Skin Rash",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Ajwain",
+          "Cinnamon"
+        ],
+        "steps": "Boil or mix Fennel seeds, Ajwain, and Cinnamon appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_200",
+    "problem": "Fatigue",
+    "symptoms": [
+      "low energy",
+      "tiredness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Lemon",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Black pepper, Lemon, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_201",
+    "problem": "Sore Throat",
+    "symptoms": [
+      "throat pain",
+      "difficulty swallowing"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Honey",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Ajwain, Honey, and Garlic appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_202",
+    "problem": "Acidity",
+    "symptoms": [
+      "burning chest",
+      "sour burps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Turmeric",
+          "Black pepper",
+          "Ginger"
+        ],
+        "steps": "Boil or mix Turmeric, Black pepper, and Ginger appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_203",
+    "problem": "Menstrual Cramps",
+    "symptoms": [
+      "lower abdomen pain",
+      "cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Garlic",
+          "Lemon",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Garlic, Lemon, and Ajwain appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_204",
+    "problem": "Fatigue",
+    "symptoms": [
+      "low energy",
+      "tiredness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Mint",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Ginger, Mint, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_205",
+    "problem": "Acne",
+    "symptoms": [
+      "pimples",
+      "oily skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Turmeric",
+          "Honey",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Turmeric, Honey, and Garlic appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_206",
+    "problem": "Fatigue",
+    "symptoms": [
+      "low energy",
+      "tiredness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Neem",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Black pepper, Neem, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_207",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Coconut oil",
+          "Amla",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Coconut oil, Amla, and Tulsi appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_208",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Turmeric",
+          "Aloe vera",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Turmeric, Aloe vera, and Isabgol appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_209",
+    "problem": "Fever",
+    "symptoms": [
+      "high temperature",
+      "body ache"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Garlic",
+          "Amla"
+        ],
+        "steps": "Boil or mix Tulsi, Garlic, and Amla appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_210",
+    "problem": "Constipation",
+    "symptoms": [
+      "hard stool",
+      "difficulty passing stool"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Coconut oil",
+          "Neem",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Coconut oil, Neem, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_211",
+    "problem": "Mild Anxiety",
+    "symptoms": [
+      "nervousness",
+      "uneasiness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Lemon",
+          "Mint"
+        ],
+        "steps": "Boil or mix Honey, Lemon, and Mint appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_212",
+    "problem": "Acne",
+    "symptoms": [
+      "pimples",
+      "oily skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Fennel seeds",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Amla, Fennel seeds, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_213",
+    "problem": "Insomnia",
+    "symptoms": [
+      "difficulty sleeping",
+      "frequent waking"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Mint",
+          "Turmeric"
+        ],
+        "steps": "Boil or mix Ginger, Mint, and Turmeric appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_214",
+    "problem": "Headache",
+    "symptoms": [
+      "head pain",
+      "pressure in head"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Clove",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Cinnamon, Clove, and Isabgol appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_215",
+    "problem": "Wet Cough",
+    "symptoms": [
+      "mucus cough",
+      "chest congestion"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Clove",
+          "Aloe vera",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Clove, Aloe vera, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_216",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Lemon",
+          "Neem",
+          "Mint"
+        ],
+        "steps": "Boil or mix Lemon, Neem, and Mint appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_217",
+    "problem": "Toothache",
+    "symptoms": [
+      "tooth pain",
+      "gum swelling"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Mustard oil",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Black pepper, Mustard oil, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_218",
+    "problem": "Dry Cough",
+    "symptoms": [
+      "dry throat",
+      "persistent cough"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Turmeric",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Amla, Turmeric, and Ajwain appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_219",
+    "problem": "Joint Pain",
+    "symptoms": [
+      "joint stiffness",
+      "knee pain"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Lemon",
+          "Fenugreek"
+        ],
+        "steps": "Boil or mix Isabgol, Lemon, and Fenugreek appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_220",
+    "problem": "Acne",
+    "symptoms": [
+      "pimples",
+      "oily skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Neem",
+          "Ajwain"
+        ],
+        "steps": "Boil or mix Black pepper, Neem, and Ajwain appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_221",
+    "problem": "Dry Cough",
+    "symptoms": [
+      "dry throat",
+      "persistent cough"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Garlic",
+          "Cinnamon"
+        ],
+        "steps": "Boil or mix Aloe vera, Garlic, and Cinnamon appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_222",
+    "problem": "Gas",
+    "symptoms": [
+      "stomach pressure",
+      "burping"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Clove",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Mustard oil, Clove, and Black pepper appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_223",
+    "problem": "Acidity",
+    "symptoms": [
+      "burning chest",
+      "sour burps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Fennel seeds",
+          "Clove"
+        ],
+        "steps": "Boil or mix Neem, Fennel seeds, and Clove appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_224",
+    "problem": "Menstrual Cramps",
+    "symptoms": [
+      "lower abdomen pain",
+      "cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Neem",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Black pepper, Neem, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_225",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Mustard oil",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Aloe vera, Mustard oil, and Isabgol appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_226",
+    "problem": "Dry Cough",
+    "symptoms": [
+      "dry throat",
+      "persistent cough"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Garlic",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Amla, Garlic, and Black pepper appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_227",
+    "problem": "Obesity Support",
+    "symptoms": [
+      "weight gain",
+      "slow metabolism"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Turmeric",
+          "Mint"
+        ],
+        "steps": "Boil or mix Isabgol, Turmeric, and Mint appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_228",
+    "problem": "Menstrual Cramps",
+    "symptoms": [
+      "lower abdomen pain",
+      "cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Mustard oil",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Fennel seeds, Mustard oil, and Isabgol appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_229",
+    "problem": "Acidity",
+    "symptoms": [
+      "burning chest",
+      "sour burps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Clove",
+          "Tulsi",
+          "Neem"
+        ],
+        "steps": "Boil or mix Clove, Tulsi, and Neem appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_230",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Turmeric",
+          "Amla",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Turmeric, Amla, and Isabgol appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_231",
+    "problem": "Anemia Support",
+    "symptoms": [
+      "weakness",
+      "pale skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Clove",
+          "Mint"
+        ],
+        "steps": "Boil or mix Cinnamon, Clove, and Mint appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_232",
+    "problem": "Sore Throat",
+    "symptoms": [
+      "throat pain",
+      "difficulty swallowing"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Isabgol",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Mustard oil, Isabgol, and Garlic appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_233",
+    "problem": "Skin Rash",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Neem",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Fennel seeds, Neem, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_234",
+    "problem": "Dandruff",
+    "symptoms": [
+      "itchy scalp",
+      "white flakes"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Fennel seeds",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Neem, Fennel seeds, and Black pepper appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_235",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Garlic",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Fennel seeds, Garlic, and Isabgol appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_236",
+    "problem": "Skin Rash",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Honey",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Ginger, Honey, and Black pepper appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_237",
+    "problem": "Dandruff",
+    "symptoms": [
+      "itchy scalp",
+      "white flakes"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Lemon",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Fennel seeds, Lemon, and Black pepper appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_238",
+    "problem": "Back Pain",
+    "symptoms": [
+      "lower back pain",
+      "muscle stiffness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Black pepper",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Ginger, Black pepper, and Tulsi appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_239",
+    "problem": "Stress",
+    "symptoms": [
+      "mental tension",
+      "restlessness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Isabgol",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Ajwain, Isabgol, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_240",
+    "problem": "Joint Pain",
+    "symptoms": [
+      "joint stiffness",
+      "knee pain"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Coconut oil",
+          "Neem",
+          "Amla"
+        ],
+        "steps": "Boil or mix Coconut oil, Neem, and Amla appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_241",
+    "problem": "Hair Fall",
+    "symptoms": [
+      "excess hair shedding",
+      "weak roots"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Garlic",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Aloe vera, Garlic, and Isabgol appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_242",
+    "problem": "Dandruff",
+    "symptoms": [
+      "itchy scalp",
+      "white flakes"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Fenugreek",
+          "Clove"
+        ],
+        "steps": "Boil or mix Tulsi, Fenugreek, and Clove appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_243",
+    "problem": "Anemia Support",
+    "symptoms": [
+      "weakness",
+      "pale skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Aloe vera",
+          "Mint"
+        ],
+        "steps": "Boil or mix Fennel seeds, Aloe vera, and Mint appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_244",
+    "problem": "Constipation",
+    "symptoms": [
+      "hard stool",
+      "difficulty passing stool"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Clove",
+          "Aloe vera",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Clove, Aloe vera, and Isabgol appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_245",
+    "problem": "Joint Pain",
+    "symptoms": [
+      "joint stiffness",
+      "knee pain"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Cinnamon",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Isabgol, Cinnamon, and Black pepper appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_246",
+    "problem": "Fatigue",
+    "symptoms": [
+      "low energy",
+      "tiredness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Garlic",
+          "Turmeric"
+        ],
+        "steps": "Boil or mix Mustard oil, Garlic, and Turmeric appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_247",
+    "problem": "Dry Cough",
+    "symptoms": [
+      "dry throat",
+      "persistent cough"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Aloe vera",
+          "Neem"
+        ],
+        "steps": "Boil or mix Fennel seeds, Aloe vera, and Neem appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_248",
+    "problem": "Dry Cough",
+    "symptoms": [
+      "dry throat",
+      "persistent cough"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Neem",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Mustard oil, Neem, and Black pepper appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_249",
+    "problem": "Dandruff",
+    "symptoms": [
+      "itchy scalp",
+      "white flakes"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Black pepper",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Honey, Black pepper, and Lemon appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_250",
+    "problem": "Bloating",
+    "symptoms": [
+      "abdominal fullness",
+      "tight stomach"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Ajwain",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Cinnamon, Ajwain, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_251",
+    "problem": "Fatigue",
+    "symptoms": [
+      "low energy",
+      "tiredness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Coconut oil",
+          "Ajwain",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Coconut oil, Ajwain, and Garlic appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_252",
+    "problem": "Constipation",
+    "symptoms": [
+      "hard stool",
+      "difficulty passing stool"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mint",
+          "Black pepper",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Mint, Black pepper, and Tulsi appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_253",
+    "problem": "Acne",
+    "symptoms": [
+      "pimples",
+      "oily skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Fenugreek",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Amla, Fenugreek, and Isabgol appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_254",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Garlic",
+          "Ginger"
+        ],
+        "steps": "Boil or mix Black pepper, Garlic, and Ginger appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_255",
+    "problem": "Skin Rash",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Ginger",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Isabgol, Ginger, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_256",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Ajwain",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Isabgol, Ajwain, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_257",
+    "problem": "Back Pain",
+    "symptoms": [
+      "lower back pain",
+      "muscle stiffness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Tulsi",
+          "Amla"
+        ],
+        "steps": "Boil or mix Black pepper, Tulsi, and Amla appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_258",
+    "problem": "Insomnia",
+    "symptoms": [
+      "difficulty sleeping",
+      "frequent waking"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Lemon",
+          "Clove",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Lemon, Clove, and Black pepper appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_259",
+    "problem": "Skin Rash",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Garlic",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Isabgol, Garlic, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_260",
+    "problem": "Headache",
+    "symptoms": [
+      "head pain",
+      "pressure in head"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Coconut oil",
+          "Cinnamon",
+          "Fenugreek"
+        ],
+        "steps": "Boil or mix Coconut oil, Cinnamon, and Fenugreek appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_261",
+    "problem": "Gas",
+    "symptoms": [
+      "stomach pressure",
+      "burping"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Fennel seeds",
+          "Turmeric"
+        ],
+        "steps": "Boil or mix Tulsi, Fennel seeds, and Turmeric appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_262",
+    "problem": "Menstrual Cramps",
+    "symptoms": [
+      "lower abdomen pain",
+      "cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Fennel seeds",
+          "Honey"
+        ],
+        "steps": "Boil or mix Neem, Fennel seeds, and Honey appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_263",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Black pepper",
+          "Lemon",
+          "Cinnamon"
+        ],
+        "steps": "Boil or mix Black pepper, Lemon, and Cinnamon appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_264",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Tulsi",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Neem, Tulsi, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_265",
+    "problem": "Anemia Support",
+    "symptoms": [
+      "weakness",
+      "pale skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Coconut oil",
+          "Garlic",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Coconut oil, Garlic, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_266",
+    "problem": "Back Pain",
+    "symptoms": [
+      "lower back pain",
+      "muscle stiffness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Black pepper",
+          "Turmeric"
+        ],
+        "steps": "Boil or mix Ajwain, Black pepper, and Turmeric appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_267",
+    "problem": "Dry Cough",
+    "symptoms": [
+      "dry throat",
+      "persistent cough"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Garlic",
+          "Ajwain",
+          "Cinnamon"
+        ],
+        "steps": "Boil or mix Garlic, Ajwain, and Cinnamon appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_268",
+    "problem": "Diarrhea",
+    "symptoms": [
+      "loose motion",
+      "stomach cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Clove",
+          "Fenugreek"
+        ],
+        "steps": "Boil or mix Mustard oil, Clove, and Fenugreek appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_269",
+    "problem": "Indigestion",
+    "symptoms": [
+      "stomach discomfort",
+      "bloating"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Tulsi",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Honey, Tulsi, and Black pepper appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_270",
+    "problem": "Diarrhea",
+    "symptoms": [
+      "loose motion",
+      "stomach cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Mint",
+          "Ginger"
+        ],
+        "steps": "Boil or mix Amla, Mint, and Ginger appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_271",
+    "problem": "Dry Cough",
+    "symptoms": [
+      "dry throat",
+      "persistent cough"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ajwain",
+          "Garlic",
+          "Isabgol"
+        ],
+        "steps": "Boil or mix Ajwain, Garlic, and Isabgol appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_272",
+    "problem": "Constipation",
+    "symptoms": [
+      "hard stool",
+      "difficulty passing stool"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Clove",
+          "Ginger",
+          "Mint"
+        ],
+        "steps": "Boil or mix Clove, Ginger, and Mint appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_273",
+    "problem": "Indigestion",
+    "symptoms": [
+      "stomach discomfort",
+      "bloating"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Fenugreek",
+          "Turmeric"
+        ],
+        "steps": "Boil or mix Neem, Fenugreek, and Turmeric appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_274",
+    "problem": "Indigestion",
+    "symptoms": [
+      "stomach discomfort",
+      "bloating"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Isabgol",
+          "Neem",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Isabgol, Neem, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_275",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Cinnamon",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Aloe vera, Cinnamon, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_276",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Mustard oil",
+          "Honey"
+        ],
+        "steps": "Boil or mix Fennel seeds, Mustard oil, and Honey appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_277",
+    "problem": "Toothache",
+    "symptoms": [
+      "tooth pain",
+      "gum swelling"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Garlic",
+          "Mint",
+          "Neem"
+        ],
+        "steps": "Boil or mix Garlic, Mint, and Neem appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_278",
+    "problem": "High Blood Pressure Support",
+    "symptoms": [
+      "headache",
+      "dizziness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Fennel seeds",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Amla, Fennel seeds, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_279",
+    "problem": "Skin Rash",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Garlic",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Ginger, Garlic, and Lemon appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_280",
+    "problem": "Skin Rash",
+    "symptoms": [
+      "redness",
+      "itching"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Fenugreek",
+          "Turmeric"
+        ],
+        "steps": "Boil or mix Aloe vera, Fenugreek, and Turmeric appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_281",
+    "problem": "Stress",
+    "symptoms": [
+      "mental tension",
+      "restlessness"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Tulsi",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Aloe vera, Tulsi, and Lemon appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_282",
+    "problem": "Acne",
+    "symptoms": [
+      "pimples",
+      "oily skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fenugreek",
+          "Neem",
+          "Turmeric"
+        ],
+        "steps": "Boil or mix Fenugreek, Neem, and Turmeric appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_283",
+    "problem": "Acidity",
+    "symptoms": [
+      "burning chest",
+      "sour burps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Clove",
+          "Aloe vera"
+        ],
+        "steps": "Boil or mix Tulsi, Clove, and Aloe vera appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_284",
+    "problem": "Gas",
+    "symptoms": [
+      "stomach pressure",
+      "burping"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Lemon",
+          "Amla",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Lemon, Amla, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_285",
+    "problem": "Menstrual Cramps",
+    "symptoms": [
+      "lower abdomen pain",
+      "cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Mustard oil",
+          "Cinnamon",
+          "Mint"
+        ],
+        "steps": "Boil or mix Mustard oil, Cinnamon, and Mint appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_286",
+    "problem": "Hair Fall",
+    "symptoms": [
+      "excess hair shedding",
+      "weak roots"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Garlic",
+          "Ajwain",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Garlic, Ajwain, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_287",
+    "problem": "Anemia Support",
+    "symptoms": [
+      "weakness",
+      "pale skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Coconut oil",
+          "Mustard oil",
+          "Garlic"
+        ],
+        "steps": "Boil or mix Coconut oil, Mustard oil, and Garlic appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_288",
+    "problem": "Migraine",
+    "symptoms": [
+      "throbbing pain",
+      "light sensitivity"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Black pepper",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Tulsi, Black pepper, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_289",
+    "problem": "Constipation",
+    "symptoms": [
+      "hard stool",
+      "difficulty passing stool"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Ginger",
+          "Turmeric",
+          "Cinnamon"
+        ],
+        "steps": "Boil or mix Ginger, Turmeric, and Cinnamon appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_290",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Garlic",
+          "Fenugreek",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Garlic, Fenugreek, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_291",
+    "problem": "Acne",
+    "symptoms": [
+      "pimples",
+      "oily skin"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fenugreek",
+          "Isabgol",
+          "Lemon"
+        ],
+        "steps": "Boil or mix Fenugreek, Isabgol, and Lemon appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_292",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Neem",
+          "Coconut oil",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Neem, Coconut oil, and Black pepper appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_293",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Honey",
+          "Mint",
+          "Turmeric"
+        ],
+        "steps": "Boil or mix Honey, Mint, and Turmeric appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_294",
+    "problem": "Menstrual Cramps",
+    "symptoms": [
+      "lower abdomen pain",
+      "cramps"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Clove",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Fennel seeds, Clove, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_295",
+    "problem": "Dry Cough",
+    "symptoms": [
+      "dry throat",
+      "persistent cough"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Cinnamon",
+          "Coconut oil",
+          "Black pepper"
+        ],
+        "steps": "Boil or mix Cinnamon, Coconut oil, and Black pepper appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": true
+  },
+  {
+    "id": "rem_296",
+    "problem": "High Blood Sugar Support",
+    "symptoms": [
+      "frequent urination",
+      "thirst"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Fennel seeds",
+          "Amla",
+          "Coconut oil"
+        ],
+        "steps": "Boil or mix Fennel seeds, Amla, and Coconut oil appropriately. Consume twice daily.",
+        "type": "Ayurvedic"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_297",
+    "problem": "Sore Throat",
+    "symptoms": [
+      "throat pain",
+      "difficulty swallowing"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Tulsi",
+          "Mustard oil",
+          "Fennel seeds"
+        ],
+        "steps": "Boil or mix Tulsi, Mustard oil, and Fennel seeds appropriately. Consume twice daily.",
+        "type": "Unani"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_298",
+    "problem": "Common Cold",
+    "symptoms": [
+      "runny nose",
+      "sneezing",
+      "mild fever"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Coconut oil",
+          "Fennel seeds",
+          "Tulsi"
+        ],
+        "steps": "Boil or mix Coconut oil, Fennel seeds, and Tulsi appropriately. Consume twice daily.",
+        "type": "Traditional Kitchen Remedy"
+      }
+    ],
+    "severity_level": "moderate",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_299",
+    "problem": "Dandruff",
+    "symptoms": [
+      "itchy scalp",
+      "white flakes"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Aloe vera",
+          "Turmeric",
+          "Clove"
+        ],
+        "steps": "Boil or mix Aloe vera, Turmeric, and Clove appropriately. Consume twice daily.",
+        "type": "Tribal"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  },
+  {
+    "id": "rem_300",
+    "problem": "Sore Throat",
+    "symptoms": [
+      "throat pain",
+      "difficulty swallowing"
+    ],
+    "possible_causes": [
+      "infection",
+      "diet imbalance",
+      "stress",
+      "seasonal change"
+    ],
+    "remedies": [
+      {
+        "ingredients": [
+          "Amla",
+          "Black pepper",
+          "Mustard oil"
+        ],
+        "steps": "Boil or mix Amla, Black pepper, and Mustard oil appropriately. Consume twice daily.",
+        "type": "Siddha"
+      }
+    ],
+    "severity_level": "mild",
+    "doctor_consult_flag": false
+  }
+]
