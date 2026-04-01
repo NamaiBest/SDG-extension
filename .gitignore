@@ -1,0 +1,11 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+outputs/
+checkpoints/
+*.safetensors
+*.pt
+*.bin
+gemini_api_key.txt
+openai_api_key.txt

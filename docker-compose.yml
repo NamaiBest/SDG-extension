@@ -1,0 +1,34 @@
+services:
+  # ── Ollama (local LLM) ──────────────────────────────
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    # Pull the model on first run (change to your preferred model)
+    entrypoint: ["/bin/sh", "-c", "ollama serve & sleep 5 && ollama pull llama3 && wait"]
+
+  # ── Chatbot API + Frontend ──────────────────────────
+  chatbot:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - OLLAMA_HOST=http://ollama:11434
+      - OLLAMA_MODEL=llama3
+      - GEMINI_MODEL=gemini-1.5-pro-latest
+      - GEMINI_KEY_PATH=/app/gemini_api_key.txt
+      - DATASET_PATH=/app/raw_data/merged_dataset.json
+      - VECTORSTORE_DIR=/app/vectorstore
+      - RAG_TOP_K=5
+      - RELEVANCE_THRESHOLD=1.0
+    volumes:
+      - ./gemini_api_key.txt:/app/gemini_api_key.txt:ro
+      - vectorstore_data:/app/vectorstore
+    depends_on:
+      - ollama
+
+volumes:
+  ollama_data:
+  vectorstore_data:

@@ -1,0 +1,18 @@
+# Secrets
+gemini_api_key.txt
+openai_api_key.txt
+
+# Vector store (rebuilt at runtime)
+vectorstore/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+
+# Model weights (too large for Docker image in some cases)
+# outputs/
+
+# OS
+.DS_Store
