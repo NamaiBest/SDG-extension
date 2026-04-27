@@ -178,7 +178,7 @@ def answer_with_local(pipe, prompt: str, max_new_tokens: int = 220) -> Optional[
 
 def answer_with_ollama(model: str, prompt: str, host: str) -> Optional[str]:
     url = f"{host}/api/generate"
-    resp = requests.post(url, json={"model": model, "prompt": prompt}, timeout=30, stream=True)
+    resp = requests.post(url, json={"model": model, "prompt": prompt}, timeout=90, stream=True)
     resp.raise_for_status()
     text_chunks = []
     for line in resp.iter_lines():
@@ -201,16 +201,9 @@ def answer_with_gemini(prompt: str, key_path: str, model: str) -> Optional[str]:
     key_file = Path(key_path)
     if not key_file.exists():
         raise FileNotFoundError(f"Gemini key file missing at {key_file}")
-    # Read key, skip comment lines
-    lines = key_file.read_text(encoding="utf-8").splitlines()
-    api_key = ""
-    for line in lines:
-        stripped = line.strip()
-        if stripped and not stripped.startswith("#"):
-            api_key = stripped
-            break
+    api_key = key_file.read_text(encoding="utf-8").strip()
     if not api_key:
-        raise ValueError("Gemini key file is empty or only contains comments.")
+        raise ValueError("Gemini key file is empty.")
 
     if google_genai is not None:
         client = google_genai.Client(api_key=api_key)

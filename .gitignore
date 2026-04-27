@@ -1,11 +1,42 @@
+# --- Python / venv / caches ---
 .venv/
+venv/
+env/
 .env
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# --- Secrets / private references ---
+gemini_api_key.txt
+openai_api_key.txt
+drive_link.txt
+*.key
+*.pem
+
+# --- Heavy / generated model artefacts ---
 outputs/
 checkpoints/
 *.safetensors
 *.pt
 *.bin
-gemini_api_key.txt
-openai_api_key.txt
+*.gguf
+
+# --- Local vector store (regenerated from raw_data/) ---
+vectorstore/
+*.sqlite3
+*.faiss
+
+# --- Logs / temp ---
+*.log
+logs/
+tmp/
